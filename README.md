@@ -39,12 +39,12 @@
         <p>&copy; 2024 André Franceschini. Todos os direitos reservados.</p>
     </footer>
 </body>
-  <style>
+<style>
     body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
     }
     
     header {
@@ -77,5 +77,5 @@
         padding: 10px 20px;
         text-align: center;
     }
-  </style>
+</style>
 </html>
