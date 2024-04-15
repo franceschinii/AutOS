@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Licença de Uso do Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Licença de Uso do Website</h1>
+    <p>Este website e seus conteúdos são protegidos por direitos autorais e não podem ser utilizados para fins comerciais, modificados, distribuídos ou utilizados em particular sem a autorização prévia e por escrito do autor.</p>
+    <p>Ao utilizar este website, você concorda com os seguintes termos:</p>
+    <ol>
+        <li><strong>Uso não comercial:</strong> Você não pode usar este website ou seus conteúdos para fins comerciais, incluindo, mas não se limitando a, publicidade, venda de produtos ou serviços, ou coleta de dados para fins de marketing.</li>
+        <li><strong>Proibição de modificação:</strong> Você não pode modificar, adaptar ou criar trabalhos derivados deste website ou de seus conteúdos.</li>
+        <li><strong>Proibição de distribuição:</strong> Você não pode distribuir, copiar, ou transmitir este website ou seus conteúdos para terceiros.</li>
+        <li><strong>Uso particular:</strong> Você não pode usar este website ou seus conteúdos para fins particulares, incluindo, mas não se limitando a, armazenamento em um servidor pessoal ou uso em um ambiente de intranet.</li>
+    </ol>
+    <p>Violações desta licença podem resultar em ação legal.</p>
+    <p>Se você deseja usar este website ou seus conteúdos para qualquer fim que não seja o uso pessoal não comercial, por favor, entre em contato com o autor para obter permissão.</p>
+    <footer>
+        <p>Contato:</p>
+        <p>Autor: André Franceschini</p>
+        <p>Email: andrefranceschini@outlook.com.br</p>
+    </footer>
+</body>
+</html>
