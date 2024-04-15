@@ -24,6 +24,7 @@
         <ul>
             <li>Python 3.x</li>
             <li>Bibliotecas: selenium, BeautifulSoup, mysql-connector-python, requests</li>
+            <li>MySQL</li>
         </ul>
     </section>
     <section id="usage">
