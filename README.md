@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h3>Este software possui uma licença que proíbe sua modificação sem permissão, por favor leia mais sobre em LICENSE.</h3>
+        <h3>Este software possui uma licença que proíbe sua modificação e distribuição sem permissão, por favor leia mais sobre em LICENSE.</h3>
         <h1>AutOS - Automatização de Ordens de Serviço</h1>
     </header>
     <section id="description">
