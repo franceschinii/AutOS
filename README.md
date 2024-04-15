@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AutOS - Automatização de Ordens de Serviço</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -39,43 +38,4 @@
         <p>&copy; 2024 André Franceschini. Todos os direitos reservados.</p>
     </footer>
 </body>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 0;
-        padding: 0;
-    }
-    
-    header {
-        background-color: #333;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-    }
-    
-    h1 {
-        margin: 0;
-    }
-    
-    section {
-        margin: 20px;
-    }
-    
-    h2 {
-        color: #333;
-    }
-    
-    ol, ul {
-        margin: 10px 0;
-        padding-left: 20px;
-    }
-    
-    footer {
-        background-color: #333;
-        color: #fff;
-        padding: 10px 20px;
-        text-align: center;
-    }
-</style>
 </html>
